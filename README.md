@@ -1,0 +1,1 @@
+[![Сборка status](https://ci.appveyor.com/api/projects/status/ppk90pqy2mqje5hh?svg=true)](https://ci.appveyor.com/project/AnastasiaCymbalyuk77753/aj-dip)
